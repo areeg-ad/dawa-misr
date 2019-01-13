@@ -1,1 +1,14 @@
 
+{
+  success: true,
+  code: 200,
+  message: "user logged in",
+  data: {
+    token: "wedmndjkfnsdknvksf",
+    user_id: 1,
+    first_name: "areeg",
+    last_name:"adel",
+    email:"areeg.adel@gmail.com",
+    phone:"01158850088"
+  }
+}
